@@ -3,4 +3,4 @@
 This application makes use of Github Developer Api.
 
 
-[view live](https://githubfinderadeku1997.netlify.app/)
+[View live](https://githubfinderadeku1997.netlify.app/)
